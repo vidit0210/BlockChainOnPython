@@ -61,7 +61,7 @@ def verify_chain():
             is_valid = True
         else:
             is_valid = False
-    #         break
+            break
     # for block in blockchain:
     #     if block_index == 0:
     #         block_index += 1
