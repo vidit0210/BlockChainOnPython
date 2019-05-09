@@ -1,0 +1,13 @@
+- Create a Block Chain list 
+-  Function to add Value 
+-  Function to take user input 
+-  While Conditon to keep on Adding values 
+    1 - > Add Value
+    2 -> get Value from specific Value 
+    3 -> print All Blocks 
+    4 -> return Last Value in the Block Chain
+    5->hack : Changes the value->To prevent
+    First Value of the Block 
+    is equal to the last Value
+    6-> exit 
+    7->Check BlockChain Verification everytime
